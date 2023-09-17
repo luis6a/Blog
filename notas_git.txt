@@ -1,0 +1,14 @@
+Notas del curso Git y GitHub
+
+Git stash
+
+> git stash, sirve para guardar cambios en un lugar temporal sin tener que hacer commit, 
+> git stash list se puede ver los que está en stash, 
+> git stash pop traigo el stash si es que cambié de rama,
+> git stash branch 'nombre_rama' llevar el stash y crear una rama,
+> git stash drop borrarlos con git stash drop
+
+Git clean
+
+> git clean para limpiar archivos o barrarlos
+> git clean --dry-run muesrta los archivos que se borrarían
