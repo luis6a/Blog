@@ -13,3 +13,9 @@ Main 1
 Main 2
 
 Mañana nos enfocaremos en su obra
+
+> Git stash, sirve para guardar cambios en un lugar temporal sin tener que hacer commit, 
+>Git stash list se puede ver los que está en stash, 
+>Git stash pop traigo el stash si es que cambié de rama,
+>Git stash branch 'nombre_rama' llevar el stash y crear una rama,
+>Git stash drop borrarlos con git stash drop
