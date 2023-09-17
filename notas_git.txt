@@ -12,3 +12,4 @@ Git clean
 
 > git clean para limpiar archivos o barrarlos
 > git clean --dry-run muesrta los archivos que se borrarían
+> git clean -f borra los archivos, para borrar carpetas es manualmente, los archivos que se encuentren en .gitignore tampoco serán borradas
